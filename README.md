@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bahadir Sevimli
+-  I am Full Stack Developer Trainee
+- I’m currently learning HTML, CSS, Bootstrap, Javascript, React.js , Tailwind.css, Cypress, ReactStrap.
