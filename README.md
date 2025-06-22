@@ -23,7 +23,8 @@ I’m passionate about writing clean, scalable code and continuously learning ne
 
 - Advanced JavaScript & TypeScript
 - Building scalable backend APIs with Node.js and Java (Spring Boot)
-- State management and advanced UI techniques in React/Next.js
+- Advanced UI techniques in React/Next.js
+- Node.js, Express
 
 ---
 
@@ -44,6 +45,16 @@ I’m passionate about writing clean, scalable code and continuously learning ne
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bahadirsevimli&show_icons=true&theme=default" alt="github-stats" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="left">
+  
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirsevimli&layout=compact" alt="top-langs" />
 </p>
 
 
